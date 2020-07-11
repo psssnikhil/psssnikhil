@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on 
+Some interesting ML,DL projects....
+
+More to come..
+
+- 📫 How to reach me: ...
+LinkedIN:https://www.linkedin.com/in/nikhil-pentapalli-5744bb18b/
+Medium:https://medium.com/@psss.nikhil
+
+
 <!--
 **psssnikhil/psssnikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
