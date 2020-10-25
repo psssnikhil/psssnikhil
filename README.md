@@ -11,6 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ML Pipelines using scikit-learn and GridSearchCV](https://medium.com/analytics-vidhya/ml-pipelines-using-scikit-learn-and-gridsearchcv-fe605a7f9e05?source=rss-f866d553711b------2)
+- [PANDAS COMPLETE GUIDE(A-Z)](https://medium.com/analytics-vidhya/pandas-complete-guide-a-z-36ba8bd15232?source=rss-f866d553711b------2)
+- [Understanding Flask and Building Web API using Python and Flask.](https://medium.com/analytics-vidhya/understanding-flask-and-building-web-api-using-python-and-flask-5611e6f66e03?source=rss-f866d553711b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
