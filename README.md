@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nikhil Pentapalli</h1>
-<h3 align="center">A passionate Data scientist and ML Engineer currently pursuing Masters CS at SUNY Buffalo </h3>
+<h3 align="center">A passionate Data scientist and ML Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psssnikhil&label=Profile%20views&color=0e75b6&style=flat" alt="psssnikhil" /> </p>
 
 - 📝 I regulary write articles on [https://nikhilpentapalli.medium.com/](https://nikhilpentapalli.medium.com/)
 
-- 💬 Ask me about **Machine learning,Deep Learning and Computer vision too :)**
+- 💬 Ask me about **Machine learning, Deep Learning and Computer vision too :)**
 
 - 📫 How to reach me **psssnikhil1@gmail.com**
 
