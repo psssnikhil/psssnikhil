@@ -11,11 +11,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MCP vs A2A Everything You Need To Get Started](https://nikhilpentapalli.medium.com/mcp-vs-a2a-everything-you-need-to-get-started-2bd5c486fa89?source=rss-f866d553711b------2)
 - [Building AI Agents from Scratch -No Frameworks](https://nikhilpentapalli.medium.com/building-ai-agents-from-scratch-no-frameworks-7e75b11396d8?source=rss-f866d553711b------2)
 - [LangChain in Detail!!](https://nikhilpentapalli.medium.com/langchain-in-detail-6cf8ecfb2464?source=rss-f866d553711b------2)
 - [ML Pipelines using scikit-learn and GridSearchCV](https://medium.com/analytics-vidhya/ml-pipelines-using-scikit-learn-and-gridsearchcv-fe605a7f9e05?source=rss-f866d553711b------2)
 - [Text Cleaning in Natural Language Processing&lpar;NLP&rpar;](https://medium.com/analytics-vidhya/text-cleaning-in-natural-language-processing-nlp-bea2c27035a6?source=rss-f866d553711b------2)
-- [PANDAS COMPLETE GUIDE&lpar;A-Z&rpar;](https://medium.com/analytics-vidhya/pandas-complete-guide-a-z-36ba8bd15232?source=rss-f866d553711b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
